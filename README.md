@@ -77,3 +77,9 @@
 - 이 프로젝트는 를 참조하여 교육목적상으로 제작하였습니다.
 - 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단배포를 할 경우 법적으로 문제될 수 있습니다.
 
+-프론트 엔드 김민경 시현
+
+![lRgZgM](https://user-images.githubusercontent.com/105492581/215398201-94ba9f8d-d037-421c-a401-1e8c5db69f76.gif)
+-
+![pZm4mQ](https://user-images.githubusercontent.com/105492581/215397892-dda8436d-146b-4714-8f8c-86e4ef3b6c22.gif)
+
